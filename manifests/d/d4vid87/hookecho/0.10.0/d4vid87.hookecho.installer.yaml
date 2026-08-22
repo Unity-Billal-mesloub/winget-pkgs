@@ -20,11 +20,11 @@ Protocols:
 Dependencies:
   PackageDependencies:
   - PackageIdentifier: Microsoft.VCRedist.2015+.x64
-ReleaseDate: 2026-08-16
+ReleaseDate: 2026-08-20
 ArchiveBinariesDependOnPath: true
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/d4vid87/hookecho/releases/download/latest/hookecho-windows-x86_64.zip
-  InstallerSha256: 09226B0CA5EF616E2C0EDBB95A3C79DC9F48B83D83A2ED49E7BF9E308F53592C
+  InstallerSha256: F84A7188A01461FA52B42A6CFBF84E141915C9A5907EB838A10B04E8228FE0F6
 ManifestType: installer
 ManifestVersion: 1.12.0
